@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2D904AA90999F3AE83FDE34CA992E1D5174903E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4CFA6E0FD4FCFDE2997794F43B38F6574EB768BA" : 0,
+    "2D904AA90999F3AE83FDE34CA992E1D5174903E3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3DD09AB1-400C-42DA-AA88-BF5C1486A989",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4CFA6E0FD4FCFDE2997794F43B38F6574EB768BA" : "programmers-test\/engine\/",
+    "2D904AA90999F3AE83FDE34CA992E1D5174903E3" : "programmers-test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "projects\/osx\/Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Playrix\/programmers-test",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D904AA90999F3AE83FDE34CA992E1D5174903E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Playrix\/engine",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4CFA6E0FD4FCFDE2997794F43B38F6574EB768BA"
+    }
+  ]
+}

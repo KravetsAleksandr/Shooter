@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Target::CheckBorderCollision():Target.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "FPoint::GetDistanceTo(FPoint const&amp;) const:FPoint.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "std::__1::__shared_count::__release_shared() [inlined]:memory">
+      </ContextState>
+      <ContextState
+         contextName = "Target::Draw():Target.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Cannon::Contains(IPoint const&amp;):Cannon.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Target::Target(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):Target.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "TestWidget::Update(float):TestWidget.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Target::CheckTargetCollision(std::__1::shared_ptr&lt;Target&gt; const&amp;):Target.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "TestWidget::Draw():TestWidget.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "TestWidget::Init():TestWidget.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_ballsVecPtr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Cannon::Draw(IPoint&amp;):Cannon.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Target::Init(int const&amp;, float const&amp;):Target.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
